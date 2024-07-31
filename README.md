@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C6538C,10:4575f3,30:80dd13,75:00ff00,100:a8e4a0&height=100&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C6538C,10:80dd13,30:4575f3,75:00ff00,100:a8e4a0&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 ![Header](./github-header-image.png)
 
