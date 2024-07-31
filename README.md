@@ -73,7 +73,7 @@
   <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=eslint&logoColor=white" />
   <img src="https://img.shields.io/badge/husky-E94E2D?style=for-the-badge&logo=styledcomponent&logoColor=white" />
-  <img src="https://img.sheilds.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.sheilds.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" />
 </div>
 
 <br />
