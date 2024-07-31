@@ -23,7 +23,7 @@
 <br />
 
 <div align="right">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCrack-Egg&count_bg=%2388D66C&title_bg=%2373BBA3&icon=freecodecamp.svg&icon_color=%23F6FB7A&title=visit&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCrack-Egg&count_bg=%23478CCF&title_bg=%233ABEF9&icon=macys.svg&icon_color=%2377E4C8&title=visit&edge_flat=false"/></a>
 </div>
 
 <br />
