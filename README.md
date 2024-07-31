@@ -47,8 +47,8 @@
 
 <div>
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white" />
-  <img height='26px' src='https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white' />
-  <img height='26px' src='https://img.shields.io/badge/reacthookform-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white' />
+  <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/reacthookform-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
 </div>
 
 <br />
@@ -72,7 +72,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
   <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=eslint&logoColor=white" />
-  <img height='26px' src='https://img.shields.io/badge/husky-E94E2D?style=for-the-badge&logo=styledcomponent&logoColor=white' />
+  <img src="https://img.shields.io/badge/husky-E94E2D?style=for-the-badge&logo=styledcomponent&logoColor=white" />
+  <img src="https://img.sheilds.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" />
 </div>
 
 <br />
