@@ -27,7 +27,7 @@
 </div>
 
 <br />
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A7E6FF,10:050C9C,30:3572EF,75:3ABEF9,100:a8e4a0&height=40&section=footer&text=&fontSize=0" width="100%"/>050C9C
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A7E6FF,10:050C9C,30:3572EF,75:3ABEF9,100:a8e4a0&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
 
 
