@@ -14,7 +14,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Crack-Egg&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </div>
 
-<br />
+<br /><br />
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Crack-Egg&theme=tokyonight-duo" alt="GitHub Streak" /></a>
