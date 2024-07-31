@@ -1,9 +1,9 @@
 ![Header](./github-header-image.png)
 
 <br />
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Love+to+learn!+Admire+to+advance!" alt="Typing SVG" /></a>
-
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Love+to+learn!+Admire+to+advance!" alt="Typing SVG" /></a>
+</div>
 <br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crack-Egg&show_icons=true&theme=gotham)
