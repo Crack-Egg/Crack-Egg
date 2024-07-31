@@ -16,10 +16,17 @@
 
 <br />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Crack-Egg&theme=tokyonight-duo)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Crack-Egg&theme=tokyonight-duo" alt="GitHub Streak" /></a>
+</div>
+
+<br />
+
 <div align="right">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCrack-Egg&count_bg=%2388D66C&title_bg=%2373BBA3&icon=freecodecamp.svg&icon_color=%23F6FB7A&title=visit&edge_flat=false"/></a>
+</div>
 
+<br />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:005682,10:80dd13,30:4575f3,75:00ff00,100:a8e4a0&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
 
