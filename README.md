@@ -15,7 +15,7 @@
 
 <br />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Crack-Egg&theme=shadow-green)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Crack-Egg&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCrack-Egg&count_bg=%2388D66C&title_bg=%2373BBA3&icon=mediafire.svg&icon_color=%23F6FB7A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
